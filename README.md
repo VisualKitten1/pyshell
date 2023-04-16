@@ -1,6 +1,5 @@
 # PyShell
 PyShell is a Python CLI-based OS which barely needs any external modules to be installed.
-<hr>
 <h2>Features</h2>
 <li>Flexible auto-installer for non-installed modules</li>
 <li>Works on almost all systems</li>

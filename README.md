@@ -7,3 +7,5 @@ PyShell is a Python CLI-based OS which barely needs any external modules to be i
 <li>Readable open-source code</li>
 <li>Modular applications</li>
 ..and much more!
+<h2>Developers</h2>
+<li>VisualKitten (Discord: snow.#6834)</li>
